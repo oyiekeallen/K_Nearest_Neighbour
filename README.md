@@ -4,10 +4,10 @@ This is a simple implementation of the KNN algorithm
 ## Execution
 > ruby main.rb
 
-## Modification
+## Making Modification
 To edit program alter contents of main.rb
 
-## LICENSE
+## Lisense
 
 Copyright 2018 Allen Oyieke 
 
